@@ -1,2 +1,9 @@
 ---
 message: "This is from company.yml"
+
+---
+spring:
+  profiles: cloud
+
+message: "This is from cloud profile"
+
