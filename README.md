@@ -1,1 +1,1 @@
-# config for class
+# config for class - bcbstx
